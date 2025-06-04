@@ -101,6 +101,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+Your Name - Aditya Raju
 
 Project Link: [https://github.com/adrocx/FinSense_AI_](https://github.com/adrocx/FinSense_AI_)
